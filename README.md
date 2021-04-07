@@ -1,6 +1,6 @@
 # ecosystem_simulator
 
-A little side-project created during march 2020 COVID-19 quarantine, along with my flatmate Riccardo. The project is freely inspired by Primer animations on Youtube (https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ).
+A little side-project created during march 2020 COVID-19 quarantine. The project is freely inspired by Primer animations on Youtube (https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ).
 
 The project is developed in MATLAB (maybe a Python version will be made sometimes) and implements a very simple ecosystem simulator.
 
